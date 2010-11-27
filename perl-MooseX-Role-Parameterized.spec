@@ -16,6 +16,7 @@ BuildRequires: perl(Moose)
 BuildRequires: perl(Test::Exception)
 BuildRequires: perl(Test::Moose)
 BuildRequires: perl(Test::More) >= 0.96
+BuildRequires: perl(Test::Fatal)
 BuildArch: noarch
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}
 
