@@ -1,9 +1,9 @@
 %define upstream_name    MooseX-Role-Parameterized
-%define upstream_version 0.25
+%define upstream_version 0.26
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
-Release:    %mkrel 2
+Release:    %mkrel 1
 
 Summary:    Metaclass for parameterizable roles
 License:    GPL+ or Artistic
