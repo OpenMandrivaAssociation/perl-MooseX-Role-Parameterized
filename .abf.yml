@@ -1,2 +1,4 @@
+removed_sources:
+  MooseX-Role-Parameterized-0.27.tar.gz: 23c8b73300e3762b63ac3551633479a3a6c514f2
 sources:
-  "MooseX-Role-Parameterized-0.27.tar.gz": 23c8b73300e3762b63ac3551633479a3a6c514f2
+  MooseX-Role-Parameterized-1.02.tar.gz: 48e776b1f566453661321cb563bed03698a1b514
