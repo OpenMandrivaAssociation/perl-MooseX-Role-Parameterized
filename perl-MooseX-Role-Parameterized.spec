@@ -1,15 +1,15 @@
 %define upstream_name    MooseX-Role-Parameterized
-%define upstream_version 1.02
+%define upstream_version 1.11
 
 Name:		perl-%{upstream_name}
-Version:	%perl_convert_version %{upstream_version}
-Release:	3
+Version:	%{upstream_version}
+Release:	1
 
 Summary:	Metaclass for parameterizable roles
 License:	GPL+ or Artistic
 Group:		Development/Perl
-Url:		https://search.cpan.org/dist/%{upstream_name}
-Source0:	http://www.cpan.org/modules/by-module/MooseX/MooseX-Role-Parameterized-%{upstream_version}.tar.gz
+Url:		https://github.com/moose/MooseX-Role-Parameterized
+Source0:	https://cpan.metacpan.org/authors/id/E/ET/ETHER/MooseX-Role-Parameterized-%{upstream_version}.tar.gz
 
 BuildRequires:	make
 BuildRequires:	perl(ExtUtils::MakeMaker)
